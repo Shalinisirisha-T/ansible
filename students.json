@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "firstName": "Shalini Sirisha",
+            "dob": "20003-09-11",
+        
+            "addresses": [ 
+                {
+                    "type": "perm",
+                    "flatNumber": 104,
+                    "street": "gandhi nagar",
+                    "city": "hyderabad"
+                },
+                {
+                    "type" : "current",
+                    "flatNumber": 104,
+                    "street": "gandhi nagar",
+                    "city": "hyderabad"
+                }
+            ],
+            "skills": ["java", "devops", "cloud"]
+        },
+        {
+            "firstName": "Shalini Sirisha",
+            "dob": "2003-09-11",
+        
+            "addresses": [ 
+                {
+                    "type": "perm",
+                    "flatNumber": 104,
+                    "street": "gandhi nagar",
+                    "city": "hyderabad"
+                },
+                {
+                    "type" : "current",
+                    "flatNumber": 104,
+                    "street": "gandhi nagar",
+                    "city": "hyderabad"
+                }
+            ],
+            "skills": ["java", "devops", "cloud"]
+        }
+    ]
+}

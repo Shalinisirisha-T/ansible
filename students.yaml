@@ -1,0 +1,27 @@
+- name: "Shalini Sirisha"
+  dob: "2003-09-11"
+  mobileNumber: 9876543210
+  addresses:
+  - flatNumber: 104
+    street: "gandhi nagar"
+    city: hyderabad
+    type: current
+  
+  - flatNumber: 104
+    street: "gandhi nagar"
+    city: hyderabad
+    type: perm
+
+- name: "Cheryl"
+  dob: "2003-09-11"
+  mobileNumber: 9876543210
+  addresses:
+  - flatNumber: 104
+    street: "gandhi nagar"
+    city: hyderabad
+    type: current
+  
+  - flatNumber: 104
+    street: "gandhi nagar"
+    city: hyderabad
+    type: perm
