@@ -8,7 +8,7 @@
     tagsMap:
       name: ansible
       project: roboshop
-      component: catalogue
+      component: catalogueS
     tagsList: [
         {
             "key": "name",
